@@ -3,4 +3,4 @@
 🔥 Hot Topic Judge
 An AI Skill for brand social media marketing, helping you decide whether a breaking hot topic is worth riding in 30 seconds.
 Why This Is Better Than Asking AI Directly
-Asking AI directly "Should Brand X ride Topic Y?" usually gets you a well-written paragraph that sounds reasonable but isn't actionable. This skill breaks down the "should we ride it" question into a reusable 
+Asking AI directly "Should Brand X ride Topic Y?" usually gets you a well-written paragraph that sounds reasonable but isn't actionable. This skill breaks down the "should we ride it" question into a reusable judgment pipeline. 
